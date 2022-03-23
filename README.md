@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Fazal
-- 👀 I’m interested in Front-end Code
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on none
-- 📫 How to reach me linkedin
+![Hey there, I'm Fazal. I'm a Front-End developer, I Love Code. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
-<!---
-FrontEndProfile/FrontEndProfile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+**CyrisXD/CyrisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+-----
+Credits: [CyrisXD](https://softfazal.com)
+
+Last Edited on: 30/08/2022
