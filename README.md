@@ -43,15 +43,17 @@ Here're some of the project's best features:
 <br>
 
 <div align="center">
-   <a href="https://www.linkedin.com/company/80389440/admin/">
- 	<img src="http://frontendprofile.com/git__profile/linkin.png" alt="Fazal-ul-rehman" width="90"/>
-   </a> 
-   
-   <a href="https://wa.me/message/H3KK6LCTUZVWA1">
-      <img src="http://frontendprofile.com/git__profile/whatsapp.png" alt="Fazal-ul-rehman" width="90"/>
-   </a> 
-   
-   <a href="https://www.linkedin.com/company/80389440/admin/">
- 	<img src="http://frontendprofile.com/git__profile/gmail.svg" alt="Fazal-ul-rehman" width="90" height="23.5"/>
-</div>
+<a href="https://twitter.com/fazal" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/softfazal" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/softfazal" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/company/80389440/admin/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
