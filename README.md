@@ -29,3 +29,12 @@ Here're some of the project's best features:
 ```bash
   http://FrontEndProfile.com
 ```
+<h1 align="center">🔴 🟢 🟠</h1>
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FrontEndProfile) align="center"
+  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontEndProfile&show_icons=true)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontEndProfile&show_icons=true&theme=merko)
