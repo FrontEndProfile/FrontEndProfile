@@ -42,8 +42,16 @@ Here're some of the project's best features:
 <h1 align="center">☎️ Contact</h1>
 <br>
 
-<a href="https://www.w3schools.com">
- 	
+<div align="center">
+   <a href="https://www.linkedin.com/company/80389440/admin/">
+ 	<img src="http://frontendprofile.com/git__profile/linkin.png" alt="Fazal-ul-rehman" width="90"/>
+   </a> 
    
-</a> 
+   <a href="https://wa.me/message/H3KK6LCTUZVWA1">
+      <img src="http://frontendprofile.com/git__profile/whatsapp.png" alt="Fazal-ul-rehman" width="90"/>
+   </a> 
+   
+   <a href="https://www.linkedin.com/company/80389440/admin/">
+ 	<img src="http://frontendprofile.com/git__profile/gmail.svg" alt="Fazal-ul-rehman" width="90" height="23.5"/>
+</div>
 
