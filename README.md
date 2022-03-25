@@ -30,11 +30,20 @@ Here're some of the project's best features:
   http://FrontEndProfile.com
 ```
 <h1 align="center">🔴 🟢 🟠</h1>
+<br>
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FrontEndProfile) align="center"
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FrontEndProfile&show_icons=true&theme=gruvbox)
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontEndProfile&show_icons=true&theme=gruvbox)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontEndProfile&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndProfile&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontEndProfile&show_icons=true&theme=merko)
+<h1 align="center">☎️ Contact</h1>
+<br>
+
+<a href="https://www.w3schools.com">
+ 	
+   
+</a> 
+
