@@ -68,8 +68,11 @@
 </p>
    
   <br>
+  <div align=center>
+  <h3><b>Tottal Repositories</b></h3>
+</div>
   <p align="center" >   
   <img src="https://github.com/FrontEndProfile/FrontEndProfile/blob/output/github-contribution-grid-snake.gif" />  
 </p>
+
   
-<!-- ![snake gif](https://github.com/FrontEndProfile/FrontEndProfile/blob/output/github-contribution-grid-snake.gif) -->
