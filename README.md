@@ -2,14 +2,15 @@
 <p align="center">
 <img src="http://softfazal.com/assets/img/02_koyta_img/about_img.png" alt="project-screenshot" width="40%" height="100%/">
 </p>
+
+<h1 id="title" align="center">◈ Fazal ◈</h1>
+
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=HTML+CSS+JS;Front+End+Developer;Freelancer;WebFlow%20|%20SpaceSquare%20|%20Coder;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
-
-<h1 id="title" align="center">◈ Fazal ◈</h1>
 
 <p id="description">I am a professional HTML CSS bootstrap website designer and developer with more than 3 years of experience. I am an expert in modern unique and 100% responsive HTML CSS website design.</p>
 
@@ -55,3 +56,20 @@
 </a>  
 </div>  
 
+<br>
+  
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/FrontEndProfile/count.svg" />  
+</p>
+   
+  <br>
+<!--   <p align="center">
+  ![snake gif](https://github.com/FrontEndProfile/FrontEndProfile/blob/output/github-contribution-grid-snake.gif)
+</p> -->
+
+![snake gif](https://github.com/FrontEndProfile/FrontEndProfile/blob/output/github-contribution-grid-snake.gif)
