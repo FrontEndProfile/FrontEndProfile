@@ -68,4 +68,8 @@
 </p>
    
   <br>
-![snake gif](https://github.com/FrontEndProfile/FrontEndProfile/blob/output/github-contribution-grid-snake.gif)
+  <p align="center" >   
+  <img src="https://github.com/FrontEndProfile/FrontEndProfile/blob/output/github-contribution-grid-snake.gif" />  
+</p>
+  
+<!-- ![snake gif](https://github.com/FrontEndProfile/FrontEndProfile/blob/output/github-contribution-grid-snake.gif) -->
