@@ -1,7 +1,7 @@
-
+<!-- 
 <p align="center">
 <img src="http://softfazal.com/assets/img/02_koyta_img/about_img.png" alt="project-screenshot" width="40%" height="100%/">
-</p>
+</p> -->
 
 <h1 id="title" align="center">◈ Fazal ◈</h1>
 
