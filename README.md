@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://api.daily.dev/devcards/32f6ab029d3f4e7db402ebd0b4eeacf8.png?r=l1a" alt="project-screenshot" width="37%" height="100%/">
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/FrontEndProfile/FrontEndProfile/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 </p> 
 
 <h1 id="title" align="center">◈ Fazal ◈</h1>
