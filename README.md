@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/FrontEndProfile/FrontEndProfile/blob/main/devcard.svg" width="400" alt="Fazal Ul-Rehman Dev Card"/></a>
+<a href="https://www.linkedin.com/in/fazal-ul-rehman/"><img src="https://github.com/FrontEndProfile/FrontEndProfile/blob/main/devcard.svg" width="400" alt="Fazal Ul-Rehman Dev Card"/></a>
 </p> 
 
 <h1 id="title" align="center">◈ Fazal ◈</h1>
