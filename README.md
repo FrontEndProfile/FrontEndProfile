@@ -12,8 +12,21 @@
 	</a>
 </p>
 
-<p id="description">I am a professional HTML CSS bootstrap website designer and developer with more than 3 years of experience. I am an expert in modern unique and 100% responsive HTML CSS website design.</p>
-
+<p id="description">
+	As a self-motivated Front-End Developer with 3 years of professional experience, I am skilled in constructing responsive and scalable websites using Web Technologies. My passion for learning and exploration drives me to continuously seek new tools and knowledge in different work environments. <br/><br/>
+My Learning Zone Technologies: <br/>
+✅ Angular & CLI <br/>
+✅ Typescript <br/>
+✅ React UI & Rules <br/>
+✅ JQuery <br/>
+✅ JavaScript <br/>
+✅ WebFlow With CMS <br/>
+✅ HARP with Jade <br/>
+✅ Version Control - Git , GitHub & BitBucket <br/>
+✅ Package Managers - NPM, Yarn <br/>
+✅ Database : Firebase & MongoDB <br/>
+</p>
+<br/>
 <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="shields"></p>
 
    <br>
