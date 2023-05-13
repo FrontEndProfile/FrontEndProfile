@@ -18,8 +18,7 @@
 
    <br>
 
-<h2>My Sites</h2>
-
+<h2>My Profile</h2>
 
 ```bash
   https://FrontEndProfile.com
