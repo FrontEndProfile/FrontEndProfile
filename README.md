@@ -20,12 +20,9 @@
 
 <h2>My Sites</h2>
 
-```bash
-  http://softfazal.com
-```
 
 ```bash
-  http://FrontEndProfile.com
+  https://FrontEndProfile.com
 ```
 <h1 align="center">🔴 🟢 🟠</h1>
 <br>
