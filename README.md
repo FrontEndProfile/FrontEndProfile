@@ -77,9 +77,6 @@ My Learning Zone Technologies: <br/>
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/FrontEndProfile/count.svg" />  
 </p>
-<p align="center" >   
-	![snake gif](https://github.com/sudoshivesh/sudoshivesh/blob/output/github-contribution-grid-snake.gif)
-</p>
 
    
   <br>
