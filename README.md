@@ -47,7 +47,7 @@ My Learning Zone Technologies: <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndProfile&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64abf08e14678473bb5e7c40?variant=light&roadmaps=cpp%2Cjavascript)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64abf08e14678473bb5e7c40?variant=light)](https://roadmap.sh)
 
 <h1 align="center">☎️ Contact</h1>
 <br>
