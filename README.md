@@ -58,13 +58,13 @@
 <!--   <img src="https://github.com/FrontEndProfile/FrontEndProfile/blob/output/github-contribution-grid-snake.gif" />   -->
 </p>
 
+<h2 align=left>Profile Visit</h2>
+<p align="left" > 
+  <img width="350" src="https://profile-counter.glitch.me/FrontEndProfile/count.svg"/>
+</p>
+
 <h2>Portfolio</h2>
 
 ```bash
   https://FrontEndProfile.com
 ```
-
-<h2 align=left>Profile Visit Success</h2>
-<p align="left">
-  <img width="350" src="https://profile-counter.glitch.me/FrontEndProfile/count.svg"/>
-</p>
